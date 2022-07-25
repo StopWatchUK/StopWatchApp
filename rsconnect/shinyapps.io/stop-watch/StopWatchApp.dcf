@@ -1,0 +1,13 @@
+name: StopWatchApp
+title: StopWatchApp
+username:
+account: stop-watch
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5832586
+bundleId: 6131564
+url: https://stop-watch.shinyapps.io/StopWatchApp/
+when: 1658773518.10119
+lastSyncTime: 1658773518.10121
+asMultiple: FALSE
+asStatic: FALSE
